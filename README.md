@@ -1,10 +1,22 @@
-# Getting Started with Create React App
+# 폴더 구조
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## _actions (redux위한 파일)
 
-## Available Scripts
+## _reducer (redux위한 파일)
 
-In the project directory, you can run:
+## components
+
+##-----view
+
+##-------sections (page css와 components)
+
+## App.js (routing)
+
+## Config.js (환경 변수)
+
+## hoc ( higher order component )
+
+## utils 
 
 ### `npm start`
 
